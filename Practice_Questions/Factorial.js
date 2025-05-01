@@ -1,4 +1,3 @@
-//Sum of N natural numbers
 
 var pr = prompt("Enter the number you want factorial of: ")
 

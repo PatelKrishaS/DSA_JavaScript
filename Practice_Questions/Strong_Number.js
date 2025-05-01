@@ -1,6 +1,5 @@
-//Sum of N natural numbers
 
-var pr = prompt("Enter the number till you want the summation of natural numbers: ")
+var pr = prompt("Enter the number:")
 
 if (pr === null) {
     console.log("Cancelled")
